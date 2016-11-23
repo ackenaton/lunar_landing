@@ -7,3 +7,8 @@ Ya tenemos todos los elementos que intervienen en nuestra web. Ahora queda plant
 
 Al aplicar este sistema voy cambiando cada uno de los ficheros CSS y usando el sistema de "prueba y error" viendo el resultado en el modo para desarrolladores de Chrome. Dejándolo de la mejor forma posible.
 
+He intentado utilizar CSS para cargar imagenes con diferentes tamaños segun la pantalla pero no he sido capaz por lo que he dejado las imagenes cargadas desde el html principal.
+
+En la carpeta img se puede encontrar todas las imagenes que utiliza la página.
+En la carpeta css estan las hojas de estilo con diferentes nombres según el tamaño de la pantalla.
+En la carpeta raíz podemos encontrar la página en cuestión nombrada como index.html

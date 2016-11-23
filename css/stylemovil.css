@@ -35,6 +35,7 @@ caja2 {
 }
 
 nave {
+	background: url(./img/navep.png)
 	float: center;
 	left: 50%;
 	right: 50%;
@@ -47,6 +48,7 @@ nave {
 }
 
 luna {
+	background: url(./img/lunap.png)
 	float: bottom;
 	bottom: 0px;
 	left: 0px;
